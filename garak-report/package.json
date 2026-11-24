@@ -48,7 +48,7 @@
     "vite": "^7.3.2",
     "vite-plugin-singlefile": "^2.2.0",
     "vite-plugin-svgr": "^4.3.0",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.11"
   },
   "resolutions": {
     "@kui/foundations": "./src/assets/kui-foundations-react-external-0.504.1.tgz",
